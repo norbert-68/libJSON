@@ -1,0 +1,6 @@
+//
+// @author Norbert Klose (norbert.klose@web.de)
+//
+
+#define LIBJSON_VERSION_MAJOR @LIBJSON_VERSION_MAJOR@
+#define LIBJSON_VERSION_MINOR @LIBJSON_VERSION_MINOR@
