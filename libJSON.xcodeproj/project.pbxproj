@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		AEE81AE2222F281000D91A57 /* JSONSample.cxx in Sources */ = {isa = PBXBuildFile; fileRef = AEE81AE1222F281000D91A57 /* JSONSample.cxx */; };
-		AEE81AE4222F2C0C00D91A57 /* SimpleJSONParser.cxx in Sources */ = {isa = PBXBuildFile; fileRef = AEE81AE3222F2C0C00D91A57 /* SimpleJSONParser.cxx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,7 +30,6 @@
 		AEE81ADF222F27D100D91A57 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		AEE81AE0222F27D100D91A57 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AEE81AE1222F281000D91A57 /* JSONSample.cxx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JSONSample.cxx; sourceTree = "<group>"; };
-		AEE81AE3222F2C0C00D91A57 /* SimpleJSONParser.cxx */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = SimpleJSONParser.cxx; path = src/SimpleJSONParser.cxx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +46,6 @@
 		AEE81AC9222F26E500D91A57 = {
 			isa = PBXGroup;
 			children = (
-				AEE81AE3222F2C0C00D91A57 /* SimpleJSONParser.cxx */,
 				AEE81AE1222F281000D91A57 /* JSONSample.cxx */,
 				AEE81ADF222F27D100D91A57 /* LICENSE */,
 				AEE81AE0222F27D100D91A57 /* README.md */,
@@ -124,7 +121,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEE81AE2222F281000D91A57 /* JSONSample.cxx in Sources */,
-				AEE81AE4222F2C0C00D91A57 /* SimpleJSONParser.cxx in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
